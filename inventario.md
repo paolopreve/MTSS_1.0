@@ -4,4 +4,6 @@
 schede_madri
 processori
 
+componenti
+
 Elettronica Padovana
