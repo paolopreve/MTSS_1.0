@@ -6,4 +6,6 @@ processori
 
 componenti
 
+periferiche
+
 Elettronica Padovana
